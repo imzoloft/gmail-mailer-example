@@ -1,0 +1,36 @@
+{
+  "name": "gmail-nodemailer-typescript",
+  "version": "1.0.0",
+  "description": "Simple TypeScript implementation for sending emails via Gmail using Nodemailer",
+  "main": "dist/email-service.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx examples.ts",
+    "examples": "npm run build && node dist/examples.js attachment",
+    "test": "npm run build && node dist/examples.js test"
+  },
+  "keywords": [
+    "gmail",
+    "nodemailer",
+    "typescript",
+    "email",
+    "smtp",
+    "mail"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/nodemailer": "^6.4.17",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

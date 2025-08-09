@@ -1,0 +1,11 @@
+This is the content of the text file attachment.
+
+This sample file demonstrates how to attach plain text files to emails using the Gmail Nodemailer service.
+
+You can include any text content here, such as:
+- Reports
+- Documentation
+- Log files
+- Configuration details
+
+The file can be attached to emails programmatically using the attachment feature of the email service.

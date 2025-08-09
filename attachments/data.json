@@ -1,0 +1,26 @@
+{
+  "example": "data",
+  "timestamp": "2025-08-09T12:00:00.000Z",
+  "metadata": {
+    "version": "1.0.0",
+    "type": "sample",
+    "description": "Sample JSON data for email attachment demonstration"
+  },
+  "features": [
+    "Email sending",
+    "HTML formatting",
+    "Plain text support",
+    "Multiple recipients",
+    "File attachments"
+  ],
+  "configuration": {
+    "service": "Gmail",
+    "authentication": "App Password",
+    "transport": "SMTP"
+  },
+  "statistics": {
+    "totalEmails": 0,
+    "successfulSends": 0,
+    "failedSends": 0
+  }
+}
