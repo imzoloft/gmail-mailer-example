@@ -46,7 +46,7 @@
 <h4>Support me</h4>
 
 - Thanks for looking at this repository, you can donate me btc to `bc1q0jc0dd6a7alzmr8j7hseg6r5d8333re9wu87wj`
-- Made by [lavoie](https://github.com/lavoie).
+- Made by [lavoie](https://github.com/imzoloft).
 
 <div align="center">
     <b>Informations</b><br>
